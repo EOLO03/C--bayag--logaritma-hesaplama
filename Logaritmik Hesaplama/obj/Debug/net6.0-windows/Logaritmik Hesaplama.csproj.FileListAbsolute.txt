@@ -1,0 +1,17 @@
+C:\Users\sabri\Desktop\vs proje\Logaritmik Hesaplama\bin\Debug\net6.0-windows\Logaritmik Hesaplama.exe
+C:\Users\sabri\Desktop\vs proje\Logaritmik Hesaplama\bin\Debug\net6.0-windows\Logaritmik Hesaplama.deps.json
+C:\Users\sabri\Desktop\vs proje\Logaritmik Hesaplama\bin\Debug\net6.0-windows\Logaritmik Hesaplama.runtimeconfig.json
+C:\Users\sabri\Desktop\vs proje\Logaritmik Hesaplama\bin\Debug\net6.0-windows\Logaritmik Hesaplama.dll
+C:\Users\sabri\Desktop\vs proje\Logaritmik Hesaplama\bin\Debug\net6.0-windows\ref\Logaritmik Hesaplama.dll
+C:\Users\sabri\Desktop\vs proje\Logaritmik Hesaplama\bin\Debug\net6.0-windows\Logaritmik Hesaplama.pdb
+C:\Users\sabri\Desktop\vs proje\Logaritmik Hesaplama\obj\Debug\net6.0-windows\Logaritmik Hesaplama.csproj.AssemblyReference.cache
+C:\Users\sabri\Desktop\vs proje\Logaritmik Hesaplama\obj\Debug\net6.0-windows\Logaritmik_Hesaplama.Form1.resources
+C:\Users\sabri\Desktop\vs proje\Logaritmik Hesaplama\obj\Debug\net6.0-windows\Logaritmik Hesaplama.csproj.GenerateResource.cache
+C:\Users\sabri\Desktop\vs proje\Logaritmik Hesaplama\obj\Debug\net6.0-windows\Logaritmik Hesaplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabri\Desktop\vs proje\Logaritmik Hesaplama\obj\Debug\net6.0-windows\Logaritmik Hesaplama.AssemblyInfoInputs.cache
+C:\Users\sabri\Desktop\vs proje\Logaritmik Hesaplama\obj\Debug\net6.0-windows\Logaritmik Hesaplama.AssemblyInfo.cs
+C:\Users\sabri\Desktop\vs proje\Logaritmik Hesaplama\obj\Debug\net6.0-windows\Logaritmik Hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\sabri\Desktop\vs proje\Logaritmik Hesaplama\obj\Debug\net6.0-windows\Logaritmik Hesaplama.dll
+C:\Users\sabri\Desktop\vs proje\Logaritmik Hesaplama\obj\Debug\net6.0-windows\ref\Logaritmik Hesaplama.dll
+C:\Users\sabri\Desktop\vs proje\Logaritmik Hesaplama\obj\Debug\net6.0-windows\Logaritmik Hesaplama.pdb
+C:\Users\sabri\Desktop\vs proje\Logaritmik Hesaplama\obj\Debug\net6.0-windows\Logaritmik Hesaplama.genruntimeconfig.cache
